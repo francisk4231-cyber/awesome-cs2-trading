@@ -77,6 +77,8 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [SCM Price History](https://github.com/HilliamT/scm-price-history) - A userless solution for getting an item's price history on the Steam Community Market
 - [Buff.163 and Bitskins price comparator(old)](https://github.com/Vincentelias/buff163-bitskins-price-comparator) - Program that compares the lowest selling prices of csgo items on buff.163 to those on bitskins
 - [node-steam-market-fetcher](https://github.com/SnaBe/node-steam-market-fetcher) - A Node.js wrapper for the Steam Community Market API.
+- [woctezuma/steam-market: Find arbitrages on the Steam Market.](https://github.com/woctezuma/steam-market)
+- [Allyans3/steam-market-api-v2: Steam Market API v2 package](https://github.com/Allyans3/steam-market-api-v2)
 
 ### Investment Analysis
 
